@@ -1,0 +1,6 @@
+${env}:
+  ip_addresses:
+    - 10.0.0.${x1}
+    - 10.0.0.${x2}
+    - 10.0.0.${x3}
+  domain_name: ${env}.suvarinalibert.com
